@@ -16,13 +16,14 @@ I'm a Systems and Infrastructure Engineer with TS and SCI eligibility and 9+ yea
 - **Machine-Learning**:	Experiments exploring ML applications in automation/security contexts
 
 ## Certifications:
-###Completed:
+
+### Completed:
 - AWS Certified Cloud Practitioner
 - AWS Solutions Architect Associate
 - CompTIA Security +
 - CompTIA CySA +
 
-###In Progress:
+### In Progress:
 - AWS DevOps Engineer – Professional (Testing soon)
 - Certified Kubernetes Administrator (Testing soon)
 - Terraform Associate (HashiCorp)
